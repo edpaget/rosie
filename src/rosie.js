@@ -1,4 +1,4 @@
-_ = require('underscore');
+_ = require('underscore/underscore');
 
 var Factory = function(constructor) {
   this.construct = constructor;
